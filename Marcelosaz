@@ -223,36 +223,12 @@ Later Git commands in the same repository will re-use existing credentials or to
 
 Read full command line usage [here](docs/usage.md).
 
-### Configuring a proxy
+### Configuring a proxysfggwegg
 
 See detailed information [here](https://aka.ms/gcm/httpproxy).
-
-## Additional Resources
-
-- [Frequently asked questions](docs/faq.md)
-- [Development and debugging](docs/development.md)
-- [Command-line usage](docs/usage.md)
-- [Configuration options](docs/configuration.md)
-- [Environment variables](docs/environment.md)
-- [Enterprise configuration](docs/enterprise-config.md)
-- [Network and HTTP configuration](docs/netconfig.md)
-- [Credential stores](docs/credstores.md)
-- [Architectural overview](docs/architecture.md)
-- [Host provider specification](docs/hostprovider.md)
-
-## Experimental Features
-
-- [Windows broker (experimental)](docs/windows-broker.md)
-- [Azure Repos OAuth tokens (experimental)](docs/azrepos-users-and-tokens.md)
-
-## Contributing
-
-This project welcomes contributions and suggestions.  
-See the [contributing guide](CONTRIBUTING.md) to get started.
-
-This project follows [GitHub's Open Source Code of Conduct](CODE_OF_CONDUCT.md).
-
-## License
-
-We're [MIT](LICENSE) licensed.
+regeergg
+## Additional Resourcesreggdrge
+ergergergerg
+- [Frequently asked hythrt
+## Licensehrhtrrhrhrhrhensed.
 When using GitHub logos, please be sure to follow the [GitHub logo guidelines](https://github.com/logos).
